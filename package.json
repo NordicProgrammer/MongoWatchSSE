@@ -1,6 +1,6 @@
 {
   "name": "mongowatchsse",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple way to setup realtime apps with Express.JS, MongoDB, and HTML.",
   "main": "index.js",
   "scripts": {
@@ -16,8 +16,8 @@
     "url": "https://github.com/NordicProgrammer/MongoWatchSSE/issues"
   },
   "homepage": "https://github.com/NordicProgrammer/MongoWatchSSE#readme",
-   "dependencies": {
-    "mongodb": "^4.12.0",
+  "dependencies": {
+    "express": "^4.18.2",
     "mongodb-legacy": "^4.0.0"
   }
 }
