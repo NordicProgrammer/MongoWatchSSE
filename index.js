@@ -1,5 +1,3 @@
-const { AggregationCursor } = require('mongodb-legacy');
-
 var MongoClient = require('mongodb-legacy').MongoClient;
 class MongoWatchSSE {
     /**

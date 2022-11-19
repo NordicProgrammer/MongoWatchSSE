@@ -1,0 +1,19 @@
+{
+  "name": "mongowatchsse",
+  "version": "1.0.0",
+  "description": "A simple way to setup realtime apps with Express.JS, MongoDB, and HTML.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NordicProgrammer/MongoWatchSSE.git"
+  },
+  "author": "NordicProgrammer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NordicProgrammer/MongoWatchSSE/issues"
+  },
+  "homepage": "https://github.com/NordicProgrammer/MongoWatchSSE#readme"
+}
