@@ -14,4 +14,8 @@ var MongoWatchSSE = require("MongoWatchSSE")
 var stream = new MongoWatchSSE({mongoDBCS: "mongodb://0.0.0.0:27017", collection: "test", db:"test"})
 router.get('/events', stream.routerHandler);
 module.exports = router;
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 06959007318342320423a71ef83691bb230e06d5
